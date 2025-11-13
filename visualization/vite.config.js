@@ -3,10 +3,10 @@ import react from '@vitejs/plugin-react'
 
 // Update the base path to match your GitHub Pages URL structure
 // If your repo is 'username/repo-name', use '/repo-name/visualization-build/'
-// For example, if repo is 'cmustudent/tswd-portfolio-templates', the base should be:
+// Your repo is 'simeon-dataviz-portfolio', so the base is:
 export default defineConfig({
   plugins: [react()],
-  base: '/tswd-portfolio-templates/visualization-build/',
+  base: '/simeon-dataviz-portfolio/visualization-build/',
   build: {
     outDir: '../visualization-build',
     emptyOutDir: true,
