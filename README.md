@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [fencing visualization](fencing-visualization) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # TSWD-portfolio-templates
 These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
@@ -29,6 +29,9 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+
+## [US Fencing Divisions Interactive Visualization](fencing-visualization)
+An interactive map-based redesign of the US Fencing divisions data visualization. This project transforms a static bar chart into an engaging, interactive map where users can explore membership and rated-fencer distributions across divisions. Features include metric toggling, clickable divisions, and dynamic Top 5 rankings.
 
 ## Final project
 Here it might be helpful to include a high-level description of your final project. 
