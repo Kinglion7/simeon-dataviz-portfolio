@@ -21,6 +21,11 @@ exclude:
   - visualization/index.html
   - visualization/index.css
   - visualization/us_fencing_divisions_interactive_react_map.jsx
+  - JEKYLL_FIX.md
+  - visualization/DEPLOYMENT_NOTES.md
+  - visualization/GITHUB_PORTFOLIO_INTEGRATION.md
+  - visualization/QUICK_SETUP.md
+  - visualization/claude_recommondations.md
 
 # Optional: Set theme (if using Jekyll theme)
 # theme: jekyll-theme-primer

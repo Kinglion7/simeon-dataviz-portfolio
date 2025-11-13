@@ -4,7 +4,7 @@ visualization/node_modules/
 **/node_modules/
 
 # Build outputs
-visualization-build/
+# Note: visualization-build/ is NOT ignored - it needs to be committed for GitHub Pages
 dist/
 build/
 *.log
