@@ -11,7 +11,7 @@ exclude:
   - .gitignore
   - .vscode/
   - .idea/
-  - *.log
+  - "*.log"
   - visualization/package.json
   - visualization/package-lock.json
   - visualization/vite.config.js
