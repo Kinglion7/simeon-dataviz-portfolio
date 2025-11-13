@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+visualization/node_modules/
+**/node_modules/
+
+# Build outputs
+visualization-build/
+dist/
+build/
+*.log
+
+# Environment files
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+

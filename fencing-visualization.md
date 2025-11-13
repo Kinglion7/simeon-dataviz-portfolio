@@ -1,4 +1,4 @@
-| [home page](README) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [fencing visualization](fencing-visualization) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # US Fencing Divisions Interactive Visualization
 
@@ -52,4 +52,14 @@ A MISM BIDA student recommended adding a "Top 5" section so users don't have to 
 A CMU undergraduate emphasized the importance of using distinct colors for foil, epee, and saber to avoid visual confusion. I applied this by assigning each weapon its own clearly differentiated color throughout the legend, metric toggle, and side-panel breakdown.
 
 Overall, these recommendations improved clarity, usability, and user control, and they are now fully reflected in the updated wireframes.
+
+## References
+
+- Original visualization: [USA Fencing Divisions Data](https://www.askfred.net/data/usfa)
+- React Leaflet documentation: [https://react-leaflet.js.org/](https://react-leaflet.js.org/)
+- Leaflet mapping library: [https://leafletjs.com/](https://leafletjs.com/)
+
+## AI acknowledgements
+
+_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
 

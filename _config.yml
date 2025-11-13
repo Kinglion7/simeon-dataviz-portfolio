@@ -1,0 +1,27 @@
+# Jekyll configuration for GitHub Pages
+# Exclude node_modules and other build artifacts from Jekyll processing
+
+exclude:
+  - node_modules/
+  - visualization/node_modules/
+  - "**/node_modules/"
+  - package.json
+  - package-lock.json
+  - .git/
+  - .gitignore
+  - .vscode/
+  - .idea/
+  - *.log
+  - visualization/package.json
+  - visualization/package-lock.json
+  - visualization/vite.config.js
+  - visualization/postcss.config.js
+  - visualization/tailwind.config.js
+  - visualization/main.jsx
+  - visualization/index.html
+  - visualization/index.css
+  - visualization/us_fencing_divisions_interactive_react_map.jsx
+
+# Optional: Set theme (if using Jekyll theme)
+# theme: jekyll-theme-primer
+
