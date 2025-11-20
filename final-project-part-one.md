@@ -26,8 +26,8 @@ The initial data exploration and visualization sketches can be found in the `Rat
 
 These initial visualizations will be refined and integrated into the final scrollable story format, with additional charts showing cost analysis and cross-weapon comparisons.
 
-![Initial Analysis - Box Plot](Fill_db_data/Fill_db_data/Rating_Analysis.ipynb)
-![Initial Analysis - Pie Chart](Fill_db_data/Fill_db_data/Rating_Analysis.ipynb)
+![Initial Analysis - Box Plot](Fill_db_data/Fill_db_data/boxplot.png)
+![Initial Analysis - Pie Chart](Fill_db_data/Fill_db_data/piecharts.png)
 
 *Note: The box plot and pie chart outputs from Rating_Analysis.ipynb demonstrate the tournament requirements and classification composition for achieving different ratings.*
 
