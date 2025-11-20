@@ -24,12 +24,18 @@ The initial data exploration and visualization sketches can be found in the `Rat
 
 - **Pie charts** displaying the composition of tournament event classifications (Unrated, E1, D1, C1, C2, C3, B1, B2, B3, A1, A2, A3, A4) that fencers participate in to earn each rating. This shows the mix of tournament types needed at each level.
 
+- **Event prices visualization** showing the average entry fees for different tournament classifications, which is essential for calculating the total cost of achieving each rating.
+
+- **Price per rating chart** illustrating the total financial investment required to achieve each rating level (E, D, C, B, A) across the three weapons, enabling direct cost comparisons.
+
 These initial visualizations will be refined and integrated into the final scrollable story format, with additional charts showing cost analysis and cross-weapon comparisons.
 
 ![Initial Analysis - Box Plot](Fill_db_data/Fill_db_data/boxplot.png)
 ![Initial Analysis - Pie Chart](Fill_db_data/Fill_db_data/piecharts.png)
+![Event Prices Analysis](Fill_db_data/Fill_db_data/event_prices.png)
+![Price Per Rating](Fill_db_data/Fill_db_data/price_per_rating.png)
 
-*Note: The box plot and pie chart outputs from Rating_Analysis.ipynb demonstrate the tournament requirements and classification composition for achieving different ratings.*
+*Note: The box plot and pie chart outputs from Rating_Analysis.ipynb demonstrate the tournament requirements and classification composition for achieving different ratings. The event prices and price per rating visualizations show the financial analysis of tournament entry fees and total costs required to achieve each rating level.*
 
 # The data
 
