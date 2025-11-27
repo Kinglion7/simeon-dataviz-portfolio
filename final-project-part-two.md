@@ -65,6 +65,17 @@ Below is a storyboard-like walkthrough of how the story will unfold visually. (S
 
 # User research 
 
+## Research Goal
+
+The goal of this user research is to evaluate the clarity, effectiveness, and accessibility of the data story about fencing rating costs and tournament requirements. Specifically, I aim to understand:
+
+- Whether the narrative structure and flow effectively guide readers through the complex data
+- How well the visualizations communicate the key insights about tournament counts and costs
+- Whether the story is accessible to both fencing-experienced and non-fencing audiences
+- What improvements are needed to make the data more interpretable and actionable
+
+This research will inform refinements for Part III to ensure the final story effectively communicates the financial and time investment required to achieve different fencing ratings.
+
 ## Target audience
 > Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
@@ -100,9 +111,18 @@ I showed each person:
 
 | Questions | Interview 1 (Parent of competitive 15-year-old fencer) | Interview 2 (College fencer in early 20s) | Interview 3 (Data-curious sports fan, no fencing experience) |
 |-------------------------|--------------------------------|-------------|-------------|
-| Overall story structure | "I had no idea it took this many tournaments just to move one rating." Liked the clean layout but wanted more annotations on the cost visuals. | "The tournament breakdown is super accurate, but I'd love a quicker explanation of why certain tournament types matter." | "The intro is clear, but after the third chart I needed more guidance on why the patterns matter." |
-| Visual clarity | Suggested adding a "real fencer story" to make the data feel more personal. | Thought the cost numbers were the most interesting part. Wanted tooltips or hover notes to explain classification codes (E1, D1, etc.). | Loved the rating ladder intro graphic. Suggested making key insights more visually bold so they aren't missed. |
-| Design & accessibility | Color palette felt "okay but a bit scattered." | - | - |
+| **Familiarity with fencing ratings** | Very familiar - has been tracking their child's progression. Understood the rating system immediately. | Very familiar - actively competing and working toward higher ratings. | No prior knowledge - needed the intro explanation. |
+| **What matters in sport progression** | Cost and time commitment are primary concerns. Wanted to see realistic expectations. | Skill milestones and difficulty of progression. Interested in understanding the path ahead. | General curiosity about skill progression systems across sports. |
+| **Overall story structure** | Quote: "I had no idea it took this many tournaments just to move one rating." Liked the clean layout but wanted more annotations on the cost visuals. Flow felt appropriate. | Quote: "The tournament breakdown is super accurate, but I'd love a quicker explanation of why certain tournament types matter." Structure made sense but needed more context in middle sections. | Quote: "The intro is clear, but after the third chart I needed more guidance on why the patterns matter." Flow was good but needed more narrative bridges. |
+| **Parts that were clear vs confusing** | Cost section was most valuable. Tournament classification breakdown was somewhat confusing without annotations. | Tournament classifications needed explanation. Cost analysis was the clearest and most engaging part. | Rating ladder intro was excellent. Middle sections (tournament types, classifications) needed more explanation. |
+| **Flow pace** | Just right - not too fast, not too slow. Appreciated the progressive reveal of information. | Slightly too fast in the middle sections. Wanted to pause and understand tournament classifications better. | Good overall, but needed more pauses for interpretation in data-heavy sections. |
+| **Chart communication** | Charts were clear but needed more interpretive text. Cost charts were most effective. | Quote: "The cost numbers were the most interesting part." Charts communicated well but needed tooltips for technical terms. | Charts were visually appealing but needed more context about what patterns to look for. |
+| **Attention-grabbing elements** | Cost breakdown chart caught attention first. Tournament count charts were secondary. | Cost comparison across weapons was most engaging. | Rating ladder graphic was most memorable and effective. |
+| **Visual clarity issues** | Some charts needed annotations explaining why certain patterns emerged (e.g., why Epee takes longer). | Wanted tooltips or hover notes to explain classification codes (E1, D1, etc.) without cluttering the design. | Suggested making key insights more visually bold so they aren't missed. Some charts felt too subtle. |
+| **Color consistency** | Quote: Color palette felt "okay but a bit scattered." Suggested unifying colors across all visualizations. | Noted some inconsistency in color usage between different chart types. | Colors were pleasant but didn't create a cohesive visual system. |
+| **Narrative guidance** | Felt well-guided through the story but wanted more personal connection. | Needed more explanation in middle sections, especially around tournament classifications. | Quote: "After the third chart I needed more guidance on why the patterns matter." Wanted more interpretation. |
+| **Visual improvement suggestion** | Suggested adding a "real fencer story" to make the data feel more personal. Also wanted more annotations on cost visuals. | Wanted hover explanations for classification codes. Suggested making cost charts larger/more prominent. | Suggested making key insights more visually bold. Wanted a "how to read this" guide for complex charts. |
+| **Narrative improvement suggestion** | Add more context about why certain tournament types matter. Include real-world examples. | Add quicker explanations of tournament classifications. Smooth out transitions between sections. | Add more interpretation of what patterns mean. Include more "so what" moments throughout. |
 
 **Synthesis of Findings:**
 
