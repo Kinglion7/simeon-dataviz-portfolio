@@ -1,7 +1,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [fencing visualization](fencing-visualization) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
+> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
 ## Draft Story Outline (Updated)
 
@@ -31,7 +31,7 @@ Below is the refined narrative based on my Part I pitch and the direction of the
 
 Below is a storyboard-like walkthrough of how the story will unfold visually. 
 
-**Interactive Wireframes:** [Tableau Dashboard](https://us-east-1.online.tableau.com/#/site/solawale-ac793484cb)
+**Live Visualization:** [https://kinglion7.github.io/fencing_final_visualization](https://kinglion7.github.io/fencing_final_visualization)
 
 **Section 1 — Rating Ladder Intro**
 - Visual: Simple rating-ladder graphic (U → A)
@@ -93,7 +93,7 @@ My story is aimed at:
 I looked for people who represent the groups above. I did not collect names or identifying info. Interviewees were described in general terms only.
 
 I showed each person:
-- A draft storyboard
+- A draft storyboard of the Next.js/GSAP scrollable website
 - Rough wireframes
 - Two early charts (tournament count + cost bar chart)
 
@@ -143,7 +143,7 @@ Across all interviews, three themes emerged:
 |------------------------------------------|---------------------------------------------------------------------------------|
 | **Add interpretation directly on visuals** | Add short annotations under each key chart ("What this means"). Add hover explanations for event classification codes (E1, D1, etc.). |
 | **Standardize design language** | Build a consistent three-weapon color palette. Increase visual hierarchy (make cost & progression charts bigger). |
-| **More narrative guidance in middle sections** | Add a real fencer persona section with a timeline. Rewrite transitions to be smoother. Add chapter markers to guide readers. |
+| **More narrative guidance in middle sections** | Add a real fencer persona section with a timeline. Rewrite transitions to be smoother. Add chapter markers in the Next.js/GSAP scrollable website to guide readers. |
 | **Improve accessibility** | Add a short "How to read this chart" panel for the cost estimator. Make key insights more visually bold so they aren't missed. |
 
 > ...include any final thoughts you have here. 
@@ -154,7 +154,7 @@ The user research revealed that while the data story is compelling, it needs mor
 _List any references you used here._
 
 - **Next.js**: Framework for building the scrollable website
-- **GSAP (GreenSock Animation Platform)**: Library for scrollable animations and interactions
+- **GSAP**: Library for scrollable animations and interactions
 - **React Charts**: Library for interactive data visualizations
 - **Fencingtimelive**: Source of tournament data
 
