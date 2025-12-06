@@ -57,9 +57,9 @@ This data allows us to track individual fencers' progression from unrated (U) th
 | Name | URL | Description |
 |------|-----|-------------|
 | Fencingtimelive Tournament Data | Provided by Dan Berke | Tournament results data for Foil, Epee, and Saber from 2021-2025, including fencer ratings, tournament classifications, and competition outcomes |
-| EpeeResults.csv | [Fill_db_data/Fill_db_data/EpeeResults.csv]('EpeeResults.csv') | Epee tournament results with fencer progression data |
-| FoilResults.csv | [Fill_db_data/Fill_db_data/FoilResults.csv]('FoilResults.csv') | Foil tournament results with fencer progression data |
-| SaberResults.csv | [Fill_db_data/Fill_db_data/SaberResults.csv]('SaberResults.csv') | Saber tournament results with fencer progression data |
+| EpeeResults.csv | private | Epee tournament results with fencer progression data |
+| FoilResults.csv | private | Foil tournament results with fencer progression data |
+| SaberResults.csv | private | Saber tournament results with fencer progression data |
 
 # Method and medium
 
