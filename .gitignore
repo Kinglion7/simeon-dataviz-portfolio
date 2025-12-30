@@ -12,6 +12,9 @@ dist
 dist-ssr
 *.local
 
+# Don't ignore dist in deployment - but ignore it in local dev
+# dist/
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
