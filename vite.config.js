@@ -22,6 +22,7 @@ export default defineConfig({
     },
   ],
   base: '/simeon-dataviz-portfolio/',
+  publicDir: 'public',
   build: {
     outDir: 'dist',
     emptyOutDir: true,
