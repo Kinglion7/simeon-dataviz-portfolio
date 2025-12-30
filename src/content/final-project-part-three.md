@@ -1,5 +1,3 @@
-| [home page](https://kinglion7.github.io/simeon-dataviz-portfolio/) | [critique by design](fencing-visualization) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
-
 # The final data story
 > Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
 
@@ -39,7 +37,7 @@ I needed to strike a balance between providing enough context for non-fencers to
 This balance was crucial because user research revealed that both fencing-experienced and non-fencing audiences needed different levels of explanation. By providing the essential context about weapons and ratings upfront, and then using the event classifications as supporting detail throughout the analysis, I was able to create a story that is accessible to all audiences while maintaining the depth needed for meaningful insights.
 
 ## References
-> **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
+> **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly. 
 
 - **Next.js**: Framework for building the scrollable website
 - **GSAP**: Library for scrollable animations and interactions
@@ -65,5 +63,4 @@ The findings from this analysis were quite interesting, and revealed that the we
 Unfortunately, I was limited by the dataset. Since the data only covers 5 years (2021-2025), we are limiting the timeframe of progression analysis. If data was available for 10 years of fencing tournaments, the findings would be more accurate and may push or lower averages and tournament costs. With the current data, Epee and Foil data cover 5 years, however Saber data only covers 3 years. This means the findings cannot be fairly compared with Saber, as the shorter timeframe may not capture the full progression patterns for that weapon.
 
 In the future, it would be interesting to see if fencing is becoming more competitive by analyzing whether the average time for getting to the highest rating was smaller in different time periods. For example, comparing progression rates from 2015-2020 versus 2021-2025 could reveal trends in the sport's competitiveness and whether the path to higher ratings is becoming more or less accessible over time. This type of longitudinal analysis would provide valuable insights into how the sport is evolving and whether the barriers to advancement are changing.
-
 

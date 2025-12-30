@@ -1,4 +1,4 @@
-| [home page](https://kinglion7.github.io/simeon-dataviz-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [fencing visualization](fencing-visualization) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://kinglion7.github.io/simeon-dataviz-portfolio/) | [critique by design](fencing-visualization) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Simeon Apanpa - Data Visualization Portfolio
 
@@ -17,7 +17,7 @@ Through this course, I aim to develop:
 
 ## Portfolio Projects
 
-### [US Fencing Divisions Interactive Visualization](fencing-visualization)
+### [Critique by Design](fencing-visualization)
 
 An interactive map-based redesign of the US Fencing divisions data visualization. This project transforms a static bar chart into an engaging, interactive map where users can explore membership and rated-fencer distributions across divisions. Features include metric toggling, clickable divisions, and dynamic Top 5 rankings.
 
@@ -43,14 +43,6 @@ A comprehensive data story exploring the hidden financial and time investment re
 - Cost breakdowns by weapon type and rating progression
 - Comparison of time and financial investment across Foil, Epee, and Saber
 - Real fencer case studies and progression timelines
-
-### [Critique by Design](critique-by-design)
-
-A redesign project where I selected an existing data visualization, conducted a structured critique, gathered user feedback, and created an improved version. This project demonstrates the iterative design process and the importance of user-centered design in data visualization.
-
-### [Data Visualization Examples](dataviz-examples)
-
-A collection of data visualization examples and exercises from the course, showcasing various techniques and approaches to presenting data effectively.
 
 ---
 

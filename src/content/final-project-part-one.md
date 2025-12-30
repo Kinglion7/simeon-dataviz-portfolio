@@ -1,5 +1,3 @@
-| [home page](https://kinglion7.github.io/simeon-dataviz-portfolio/) | [critique by design](fencing-visualization) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
-
 # Final Project Part I: The Cost of Fencing Ratings
 
 ## Outline
@@ -30,10 +28,10 @@ The initial data exploration and visualization sketches can be found in the `Rat
 
 These initial visualizations will be refined and integrated into the final scrollable story format, with additional charts showing cost analysis and cross-weapon comparisons.
 
-![Initial Analysis - Box Plot](Fill_db_data/Fill_db_data/boxplot.png)
-![Initial Analysis - Pie Chart](Fill_db_data/Fill_db_data/piecharts.png)
-![Event Prices Analysis](Fill_db_data/Fill_db_data/event_prices.png)
-![Price Per Rating](Fill_db_data/Fill_db_data/price_per_rating.png)
+![Initial Analysis - Box Plot](/simeon-dataviz-portfolio/Fill_db_data/Fill_db_data/boxplot.png)
+![Initial Analysis - Pie Chart](/simeon-dataviz-portfolio/Fill_db_data/Fill_db_data/piecharts.png)
+![Event Prices Analysis](/simeon-dataviz-portfolio/Fill_db_data/Fill_db_data/event_prices.png)
+![Price Per Rating](/simeon-dataviz-portfolio/Fill_db_data/Fill_db_data/price_per_rating.png)
 
 *Note: The box plot and pie chart outputs from Rating_Analysis.ipynb demonstrate the tournament requirements and classification composition for achieving different ratings. The event prices and price per rating visualizations show the financial analysis of tournament entry fees and total costs required to achieve each rating level.*
 
@@ -42,15 +40,21 @@ These initial visualizations will be refined and integrated into the final scrol
 The dataset for this project comes from Fencingtimelive, an online platform that maintains comprehensive records of fencing tournaments across the United States. The data was provided by Dan Berke, the creator of Fencingtimelive, and includes detailed tournament results spanning from 2021 to 2025.
 
 The dataset consists of three CSV files—one for each weapon:
-- `EpeeResults.csv` - Tournament results for Epee fencers
-- `FoilResults.csv` - Tournament results for Foil fencers  
-- `SaberResults.csv` - Tournament results for Saber fencers
+
+| File | Description |
+|------|-------------|
+| `EpeeResults.csv` | Tournament results for Epee fencers |
+| `FoilResults.csv` | Tournament results for Foil fencers |
+| `SaberResults.csv` | Tournament results for Saber fencers |
 
 Each file contains comprehensive tournament information including tournament name, location, date, event classification level, fencer names, initial and final ratings, earned ratings, and club affiliations. The key columns for our analysis are:
-- `weaponRating`: The fencer's rating at the start of the tournament
-- `earned`: The rating earned at the tournament (if any)
-- `classification`: The tournament event classification (U, E1, D1, C1, C2, C3, B1, B2, B3, A1, A2, A3, A4)
-- `name` and `club1Name`: Used together to uniquely identify individual fencers
+
+| Column | Description |
+|--------|-------------|
+| `weaponRating` | The fencer's rating at the start of the tournament |
+| `earned` | The rating earned at the tournament (if any) |
+| `classification` | The tournament event classification (U, E1, D1, C1, C2, C3, B1, B2, B3, A1, A2, A3, A4) |
+| `name and club1Name` | Used together to uniquely identify individual fencers |
 
 This data allows us to track individual fencers' progression from unrated (U) through each rating level (E, D, C, B, A) and calculate the average number of tournaments and tournament classification composition required to achieve each rating. We will also incorporate average tournament entry fee data to calculate the total financial investment required.
 
@@ -90,3 +94,4 @@ I used **Cursor** and the AI models integrated within it (including Claude and o
 - **Documentation**: Assistance in structuring and refining the project outline and documentation
 
 All analytical insights, design decisions, and final interpretations are my own work, with AI serving as a collaborative tool for implementation and documentation support.
+
