@@ -47,9 +47,35 @@ export default function ProjectPage({ content }) {
                 {...props}
               />
             ),
-            img: ({ node, ...props }) => (
-              <img className="rounded-lg my-6 max-w-full h-auto" {...props} alt={props.alt || ""} />
-            ),
+            img: ({ node, ...props }) => {
+              // Handle image src paths - ensure they work with the base path
+              let src = props.src || ""
+              
+              // URL-encode the path to handle spaces and special characters in filenames
+              // This is important for filenames like "Solution Workflow Diagram.png"
+              if (src && !src.startsWith('http') && !src.startsWith('data:')) {
+                // Split path into directory and filename parts
+                const pathParts = src.split('/')
+                const encodedParts = pathParts.map(part => {
+                  // Only encode parts that contain spaces or special characters
+                  // This preserves the path structure while encoding the filename
+                  if (part && (part.includes(' ') || /[^a-zA-Z0-9._-]/.test(part))) {
+                    return encodeURIComponent(part)
+                  }
+                  return part
+                })
+                src = encodedParts.join('/')
+              }
+              
+              return (
+                <img 
+                  className="rounded-lg my-6 max-w-full h-auto" 
+                  src={src}
+                  alt={props.alt || ""}
+                  loading="lazy"
+                />
+              )
+            },
             blockquote: ({ node, ...props }) => (
               <blockquote
                 className="border-l-4 border-primary pl-4 italic my-5 text-muted-foreground bg-muted/30 py-2"
