@@ -53,12 +53,10 @@ export default function ProjectPage({ content }) {
               
               // URL-encode the path to handle spaces and special characters in filenames
               // This is important for filenames like "Solution Workflow Diagram.png"
-              if (src && !src.startsWith('http') && !src.startsWith('data:')) {
-                // Split path into directory and filename parts
+              if (src && !src.startsWith('http') && !src.startsWith('data:') && !src.startsWith('.')) {
+                // Split path and encode only parts with spaces or special characters
                 const pathParts = src.split('/')
                 const encodedParts = pathParts.map(part => {
-                  // Only encode parts that contain spaces or special characters
-                  // This preserves the path structure while encoding the filename
                   if (part && (part.includes(' ') || /[^a-zA-Z0-9._-]/.test(part))) {
                     return encodeURIComponent(part)
                   }
