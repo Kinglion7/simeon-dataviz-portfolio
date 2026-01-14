@@ -64,3 +64,4 @@ Unfortunately, I was limited by the dataset. Since the data only covers 5 years 
 
 In the future, it would be interesting to see if fencing is becoming more competitive by analyzing whether the average time for getting to the highest rating was smaller in different time periods. For example, comparing progression rates from 2015-2020 versus 2021-2025 could reveal trends in the sport's competitiveness and whether the path to higher ratings is becoming more or less accessible over time. This type of longitudinal analysis would provide valuable insights into how the sport is evolving and whether the barriers to advancement are changing.
 
+

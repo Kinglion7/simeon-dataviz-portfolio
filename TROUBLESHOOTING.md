@@ -56,3 +56,4 @@ Sometimes cached files cause issues:
 
 3. Check for JavaScript errors in the browser console - these will tell you exactly what's wrong.
 
+

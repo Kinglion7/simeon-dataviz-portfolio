@@ -168,3 +168,4 @@ I used **Cursor** and the AI models integrated within it (including Claude and o
 
 All research insights, design decisions, and user feedback interpretations are my own work, with AI serving as a collaborative tool for documentation and organization support.
 
+
